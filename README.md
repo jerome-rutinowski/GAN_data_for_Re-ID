@@ -1,7 +1,7 @@
 # GAN_data_for_Re-ID
 On the Applicability of Synthetic Data for Re-Identification
 
-## Exemplar results
+## Example results
 
 ### apple2orange
 
