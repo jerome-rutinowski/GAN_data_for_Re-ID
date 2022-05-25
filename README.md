@@ -41,10 +41,10 @@ row 1: Centered pallet block -> Rotated left pallet block -> Reconstructed cente
 
 - Dataset
 
-    - download the summer2winter dataset
+    - download the pallet-block-502 dataset
 
         ```console
-        sh ./download_dataset.sh summer2winter_yosemite
+        --link--
         ```
  
 - Example of training
