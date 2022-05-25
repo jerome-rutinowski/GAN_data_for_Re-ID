@@ -74,3 +74,4 @@ row 1: Centered pallet block -> Rotated left pallet block -> Reconstructed cente
         --link--
         ```
     - The downloaded weights should be placed in ./output/pallet-block-502/checkpoints/
+    - The downloaded classifier model (and json file) should be placed in ./model_classifier_C_RL/
