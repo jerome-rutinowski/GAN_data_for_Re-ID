@@ -50,19 +50,20 @@ row 1: Centered pallet block -> Rotated left pallet block -> Reconstructed cente
 - Example of training
 
     ```console
-    CUDA_VISIBLE_DEVICES=0 python train.py --dataset summer2winter_yosemite
+    CUDA_VISIBLE_DEVICES=0 python train.py --dataset pallet-block-502
     ```
 
     - tensorboard for loss visualization
 
         ```console
-        tensorboard --logdir ./output/summer2winter_yosemite/summaries --port 6006
+        tensorboard --logdir ./output/pallet-block-502/summaries --port 6006
         ```
 
 - Example of testing
+    - To generate images using the trained cycleGAN
 
     ```console
-    CUDA_VISIBLE_DEVICES=0 python test.py --experiment_dir ./output/summer2winter_yosemite
+    CUDA_VISIBLE_DEVICES=0 python test.py --experiment_dir ./output/pallet-block-502
     ```
 - The checkpoints for the CycleGAN trained on pallet-block-502 dataset can be downloaded here
     - The downloaded weights should be placed in ./output/pallet-block-502/checkpoints/
