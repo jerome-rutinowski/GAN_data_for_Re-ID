@@ -80,5 +80,5 @@ row 1: Centered pallet block -> Rotated left pallet block -> Reconstructed cente
     - The downloaded classifier model (and json file) should be placed in ./model_classifier_C_RL/
 - Download the pallet block dataset and load the cycle GAN checkpoints along with the weights of the classifier
     ```console
-        sh download_data_and_load_weights.sh
+        sh download_pallet_dataset_and_load_weights.sh
     ```
