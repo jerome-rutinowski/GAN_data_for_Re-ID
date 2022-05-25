@@ -51,7 +51,7 @@ row 1: Centered pallet block -> Rotated left pallet block -> Reconstructed cente
         ```
     - or take the filtered part of the dataset that we used from here
         ```console
-        --link--
+        https://zenodo.org/record/6580127
         ```
  
 - Example of training
@@ -73,8 +73,8 @@ row 1: Centered pallet block -> Rotated left pallet block -> Reconstructed cente
     CUDA_VISIBLE_DEVICES=0 python test.py --experiment_dir ./output/pallet-block-502
     ```
 - The checkpoints for the CycleGAN trained on pallet-block-502, the classifier model as well as the output images of the GAN can be downloaded here
-        ```console
-        --link--
-        ```
+    ```console
+        https://zenodo.org/record/6580127
+    ```
     - The downloaded weights should be placed in ./output/pallet-block-502/checkpoints/
     - The downloaded classifier model (and json file) should be placed in ./model_classifier_C_RL/
