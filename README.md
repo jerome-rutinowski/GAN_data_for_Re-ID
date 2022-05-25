@@ -3,9 +3,9 @@ On the Applicability of Synthetic Data for Re-Identification
 
 ## Example results
 
-### apple2orange
+### C2RL
 
-row 1: apple -> orange -> reconstructed apple, row 2: orange -> apple -> reconstructed orange
+row 1: Centered pallet block -> Rotated left pallet block -> Reconstructed centered pallet block
 
 <p align="center"> <img src="./pics/apple2orange.jpg" width="100%" /> </p>
 
