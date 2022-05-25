@@ -10,7 +10,7 @@ This work is part of the project "Silicon Economy Logistics Ecosystem" which is 
 
 row 1: Centered pallet block -> Rotated left pallet block -> Reconstructed centered pallet block
 
-<p align="center"> <img src="./pics/apple2orange.jpg" width="100%" /> </p>
+<p align="center"> <img src="./cycle_gan_example.pdf" width="100%" /> </p>
 
 # Usage
 
