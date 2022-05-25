@@ -1,5 +1,8 @@
-# GAN_data_for_Re-ID
-On the Applicability of Synthetic Data for Re-Identification
+# On the Applicability of Synthetic Data for Re-Identification in Warehousing Logistics
+
+This repository complements our publication "On the Applicability of Synthetic Data for Re-Identification in Warehousing Logistics".
+
+This work is part of the project "Silicon Economy Logistics Ecosystem" which is funded by the German Federal Ministry of Transport and Digital Infrastructure.
 
 ## Example results
 
