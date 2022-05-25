@@ -64,3 +64,4 @@ row 1: Centered pallet block -> Rotated left pallet block -> Reconstructed cente
     ```console
     CUDA_VISIBLE_DEVICES=0 python test.py --experiment_dir ./output/summer2winter_yosemite
     ```
+- The checkpoints for the CycleGAN trained on pallet-block-502 dataset can be downloaded from --link--
