@@ -44,7 +44,7 @@ row 1: Centered pallet block -> Rotated left pallet block -> Reconstructed cente
     - download the pallet-block-502 dataset
 
         ```console
-        --link--
+        https://zenodo.org/record/6353714
         ```
  
 - Example of training
