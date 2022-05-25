@@ -1,4 +1,4 @@
-dataset: pallet-block-512
+dataset: pallet-block-502
 datasets_dir: datasets
 load_size: 1280
 crop_size: 1280
